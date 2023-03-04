@@ -1,7 +1,6 @@
 ## StyleWSGAN
 
-This repository contains code to reproduce experiments presented in:
-
+This repository contains code to reproduce ablation experiments presented in:
 
 **Generative Modeling Helps Weak Supervision (and Vice Versa)**<br>
 Benedikt Boecking, Nicholas Roberts, Willie Neiswanger, Stefano Ermon, Frederic Sala, Artur Dubrawski<br>
