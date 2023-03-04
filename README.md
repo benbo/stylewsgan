@@ -43,6 +43,7 @@ python wsgan_dataset_tool.py --dataset CIFAR10-lownoise --dest_root ~/datasets/ 
 ```
 
 **LSUN**: 
+
 First, download all 10 scene categories from the [LSUN project page](https://www.yf.io/p/lsun/).
 Then, ensure that you have the `lmdb` Python package installed (e.g. `pip install lmdb`).
 Run the following command to create the LSUN ZIP archive with LFs:
